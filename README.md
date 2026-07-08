@@ -150,4 +150,4 @@ ___
 
 ## Author
 
-Built by Raul as a hands-on SOC/detection engineering project.
+Built by Raul Cortinas as a hands-on SOC/detection engineering project.
